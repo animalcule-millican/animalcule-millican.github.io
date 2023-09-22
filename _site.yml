@@ -1,3 +1,4 @@
+title: "Investigations of Interanimalcular Interactions in Agroecosystems"
 name: "Animalcule Research"
 output_dir: 'docs'
 exclude: ["auxiliary", "*.csv"]
