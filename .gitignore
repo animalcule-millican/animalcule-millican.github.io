@@ -3,3 +3,4 @@ example.toml
 bin/
 docs/_config.yml
 docs/webpage.html
+.DS_Store
