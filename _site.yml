@@ -3,7 +3,7 @@ name: "Animalcule Research"
 output_dir: 'docs'
 exclude: ["auxiliary", "*.csv"]
 favicon:
-base_url: https://animalcule-millian.github.io/
+base_url: https://animalcule-millican.github.io/
 repository_url: https://github.com/animalcule-millican/animalcule-millican.github.io
 output:
   html_document:
