@@ -38,7 +38,7 @@ navbar:
     - text: "Functional Assay Protocols"
       menu:
         - text: "ACC deaminase assay"
-          href: project-files/protocols/acc-deaminase-assay.html
+          href: ./project-files/protocols/acc-deaminase-assay.html
         - text: "Ammonia production assay"
           href: project-files/protocols/ammonia-production-assay.html
         - text: "Amylase assay"
