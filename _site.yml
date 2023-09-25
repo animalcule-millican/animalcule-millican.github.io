@@ -1,5 +1,5 @@
 name: "Mywebsite"
-output_dir: 'test_docs'
+output_dir: '.'
 output:
   html_document:
     theme: cerulean
