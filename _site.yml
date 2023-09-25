@@ -1,7 +1,5 @@
 name: "Investigations of Interanimalcular Interactions in Agroecosystems"
 output_dir: 'docs'
-include: ["project_files/*", "media/*", "src/*", "include_head.html", "style.css", "about.html", "index.html", "_site.yml"]
-exclude: ["./bin/"]
 favicon:
 base_url: https://animalcule-millican.github.io/
 repository_url: https://github.com/animalcule-millican/animalcule-millican.github.io
