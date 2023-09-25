@@ -5,7 +5,7 @@ base_url: https://animalcule-millican.github.io/
 repository_url: https://github.com/animalcule-millican/animalcule-millican.github.io
 output:
   html_document:
-    theme: bootstrap
+    theme: cosmo
     highlight: textmate
     toc: true
     toc_float: 
