@@ -1,7 +1,7 @@
 name: "Investigations of Interanimalcular Interactions in Agroecosystems"
 output_dir: 'docs'
 favicon:
-base_url: https://github.com/animalcule-millican/animalcule-millican.github.io/blob/main/
+base_url: https://animalcule-millican.github.io/
 repository_url: https://github.com/animalcule-millican/animalcule-millican.github.io
 output:
   html_document:
@@ -17,7 +17,7 @@ navbar:
   title: "Functional Animalcule Characterization in Agroecosystems"
   logo:
     image: Animalcule
-    href: media/Image_0949.png
+    href: docs/media/Image_0949.png
   left:
     - text: "Home"
       href: docs/index.html
@@ -210,13 +210,13 @@ navbar:
             - text: "Lipase Medium"
               href: docs/project_files/media/lipase-agar.html
             - text: "Cellulase Medium"
-              href:  project-files/under-construction.html
+              href: docs/project-files/under-construction.html
             - text: "Protease Medium"
-              href:  project-files/under-construction.html
+              href: docs/project-files/under-construction.html
             - text: "Chitin Agar"
               href: docs/project_files/media/chitin-agar.html
             - text: "Amylase Medium"
-              href:  project-files/under-construction.html
+              href: docs/project-files/under-construction.html
         - text: "Enrichment Media"
           menu:
           - text: "Hypersaline Medium"
