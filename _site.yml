@@ -1,5 +1,7 @@
 name: "Mywebsite"
 output_dir: '.'
+base_url: https://animalcule-millican.github.io
+repository_url: https://github.com/animalcule-millican/animalcule-millican.github.io
 output:
   html_document:
     theme: cerulean
