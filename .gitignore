@@ -7,7 +7,5 @@ docs/webpage.html
 about.rmd
 index.rmd
 .nojekyll
-media/
-project_files/
-src/
+Real-files/
 include_head.html
