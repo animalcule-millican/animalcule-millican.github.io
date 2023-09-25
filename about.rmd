@@ -1,6 +1,6 @@
 ---
-title: "About This Website"
+title: "My Test Webpage"
+output: 
+  html_document:
+    toc: FALSE
 ---
-
-## About the website:
-    - A repository for microbial research, projects, and resources
