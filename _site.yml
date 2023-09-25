@@ -2,7 +2,7 @@ name: "Investigations of Interanimalcular Interactions in Agroecosystems"
 output_dir: 'docs'
 favicon:
 base_url: https://animalcule-millican.github.io/
-repository_url: https://github.com/animalcule-millican/animalcule-millican.github.io
+repository_url: https://github.com/animalcule-millican/animalcule-millican.github.io/blob/main/docs
 output:
   html_document:
     theme: cosmo

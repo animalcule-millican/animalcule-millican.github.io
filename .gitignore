@@ -6,3 +6,8 @@ docs/webpage.html
 .DS_Store
 about.rmd
 index.rmd
+.nojekyll
+media/
+project_files/
+src/
+include_head.html
