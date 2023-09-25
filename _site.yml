@@ -235,3 +235,7 @@ navbar:
             href: docs/project_files/media/honey-peptone-medium.html
           - text: "Bread Crumb Medium"
             href: docs/project_files/media/bread-crumb-medium.html
+  right:
+      - icon: fab fa-github 
+        image: Animalcule
+        href: docs/media/Image_0959.png
