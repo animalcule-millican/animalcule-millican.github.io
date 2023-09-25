@@ -26,103 +26,103 @@ navbar:
     - text: "Project Directory"
       menu:
         - text: "Functional characterization and interspecific interactions in agroecosystems"
-          href: docs/project-files/under_construction.html 
+          href: https://animalcule-millican.github.io/docs/project-files/under_construction.html 
         - text: "The influence of nitrogen on fungal communities in perennial and annual agroecosystsm"
-          href: docs/project-files/under_construction.html 
+          href: https://animalcule-millican.github.io/docs/project-files/under_construction.html 
         - text: "Genotypic selection of microbial functional assemblage in the phytobiome"
-          href: docs/project-files/under_construction.html 
+          href: https://animalcule-millican.github.io/docs/project-files/under_construction.html 
         - text: "Plant benefical traits and nutrient cycling of microbial communities in bioenergy ecosystems"
-          href: docs/project-files/under_construction.html 
+          href: https://animalcule-millican.github.io/docs/project-files/under_construction.html 
         - text: "Automated pipeline for processing amplicon sequence data"
-          href: docs/project-files/under_construction.html 
+          href: https://animalcule-millican.github.io/docs/project-files/under_construction.html 
     - text: "Functional Assay Protocols"
       menu:
         - text: "ACC deaminase assay"
           href: ./project-files/protocols/acc-deaminase-assay.html
         - text: "Ammonia production assay"
-          href: docs/project-files/protocols/ammonia-production-assay.html
+          href: https://animalcule-millican.github.io/docs/project-files/protocols/ammonia-production-assay.html
         - text: "Amylase assay"
-          href: docs/project-files/protocols/amylase-assay.html
+          href: https://animalcule-millican.github.io/docs/project-files/protocols/amylase-assay.html
         - text: "Cellulase assay"
-          href: docs/project-files/protocols/cellulase-activity-assay.html
+          href: https://animalcule-millican.github.io/docs/project-files/protocols/cellulase-activity-assay.html
         - text: "Chitinase assay"
-          href: docs/project-files/protocols/chitinase-activity.html
+          href: https://animalcule-millican.github.io/docs/project-files/protocols/chitinase-activity.html
         - text: "Cyanide production assay"
-          href: docs/project-files/protocols/cyanide-production-assay.html
+          href: https://animalcule-millican.github.io/docs/project-files/protocols/cyanide-production-assay.html
         - text: "Cyanobacteria Isolation from soil environments"
-          href: docs/project-files/protocols/cyanobacteria-isolation.html
+          href: https://animalcule-millican.github.io/docs/project-files/protocols/cyanobacteria-isolation.html
         - text: "IAA production assay"
-          href: docs/project-files/protocols/iaa-production-assay.html
+          href: https://animalcule-millican.github.io/docs/project-files/protocols/iaa-production-assay.html
         - text: "Lipase assay"
-          href: docs/project-files/protocols/lipase-assay.html
+          href: https://animalcule-millican.github.io/docs/project-files/protocols/lipase-assay.html
         - text: "Phosphate solubilization assay"
-          href: docs/project-files/protocols/phosphate-solubilization-assay.html
+          href: https://animalcule-millican.github.io/docs/project-files/protocols/phosphate-solubilization-assay.html
         - text: "Potassium solubilization assay"
-          href: docs/project-files/protocols/potassium-solubilization-assay.html
+          href: https://animalcule-millican.github.io/docs/project-files/protocols/potassium-solubilization-assay.html
         - text: "Protease assay"
-          href: docs/project-files/protocols/protease-assay.html
+          href: https://animalcule-millican.github.io/docs/project-files/protocols/protease-assay.html
         - text: "Siderophore production assay"
-          href: docs/project-files/protocols/sideropohre-production-assay.html
+          href: https://animalcule-millican.github.io/docs/project-files/protocols/sideropohre-production-assay.html
         - text: "Direct Inhibition Assay"
-          href: docs/project-files/under-construction.html
+          href: https://animalcule-millican.github.io/docs/project-files/under-construction.html
         - text: "Co-culture Inhibition Assay"
-          href: docs/project-files/under-construction.html
+          href: https://animalcule-millican.github.io/docs/project-files/under-construction.html
         - text: "Volatile Inhibition Assay"
-          href: docs/project-files/under-construction.html
+          href: https://animalcule-millican.github.io/docs/project-files/under-construction.html
         - text: "Actinomycota Isolation Protocols"
-          href: docs/project-files/under-construction.html
+          href: https://animalcule-millican.github.io/docs/project-files/under-construction.html
         - text: "Community Inhibition Assay"
-          href: docs/project-files/under-construction.html
+          href: https://animalcule-millican.github.io/docs/project-files/under-construction.html
         - text: "Diazotroph Isolation Protocols"
-          href: docs/project-files/under-construction.html
+          href: https://animalcule-millican.github.io/docs/project-files/under-construction.html
         - text: "Carbon Source Utilization Assay"
-          href: docs/project-files/under-construction.html
+          href: https://animalcule-millican.github.io/docs/project-files/under-construction.html
         - text: "Nitrogen Source Utilization Assay"
-          href: docs/project-files/under-construction.html
+          href: https://animalcule-millican.github.io/docs/project-files/under-construction.html
         - text: "Zinc Solubilization Assay"
-          href: docs/project-files/under-construction.html
+          href: https://animalcule-millican.github.io/docs/project-files/under-construction.html
         - text: "Interspecific Interactions Assays"
-          href: docs/project-files/under-construction.html
+          href: https://animalcule-millican.github.io/docs/project-files/under-construction.html
     - text: "Multitudes of Media"
       menu:
         - text: "Fungal Specific Media"
           menu:
             - text: "Potato Dextrose Medium"
-              href: docs/project-files/media/potato-dextrose-recipe.html
+              href: https://animalcule-millican.github.io/docs/project-files/media/potato-dextrose-recipe.html
             - text: "Dichloran Rose Bengal Medium"
               href: project_files/media/dichloran-rose-bengal-chloramphenicol-dextrose-agar.html
             - text: "Malt Extract Medium"
-              href: docs/project_files/media/malt-extract-medium.html
+              href: https://animalcule-millican.github.io/docs/project_files/media/malt-extract-medium.html
             - text: "Cornmeal Medium"
-              href: docs/project_files/media/cornmeal-medium.html
+              href: https://animalcule-millican.github.io/docs/project_files/media/cornmeal-medium.html
             - text: "Juiced Vegetable Medium"
-              href: docs/project_files/media/jucied-vegetable-medium.html
+              href: https://animalcule-millican.github.io/docs/project_files/media/jucied-vegetable-medium.html
             - text: "Sabouraud Dextrose Medium"
-              href: docs/project_files/media/sabouraud-medium-recipe.html
+              href: https://animalcule-millican.github.io/docs/project_files/media/sabouraud-medium-recipe.html
             - text: "Bread Crumb Medium"
-              href: docs/project_files/media/bread-crumb-medium.html
+              href: https://animalcule-millican.github.io/docs/project_files/media/bread-crumb-medium.html
             - text: "Osmophilic Fungi Medium"
               href: https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium187.pdf
             - text: "Czapek Dox Medium"
-              href: docs/project_files/media/dsmz-medium-130-czapek-dox.pdf
+              href: https://animalcule-millican.github.io/docs/project_files/media/dsmz-medium-130-czapek-dox.pdf
         - text: "General Bacteriological Media"
           menu:
             - text: "Tryptic Soy Medium"
-              href: docs/project_files/media/tryptic-soy-recipe.html
+              href: https://animalcule-millican.github.io/docs/project_files/media/tryptic-soy-recipe.html
             - text: "King's B Medium"
-              href: docs/project_files/media/kings-b-recipe.html
+              href: https://animalcule-millican.github.io/docs/project_files/media/kings-b-recipe.html
             - text: "R2A Medium"
-              href: docs/project_files/media/r2a-medium-recipe.html
+              href: https://animalcule-millican.github.io/docs/project_files/media/r2a-medium-recipe.html
             - text: "Yeast Peptone Medium"
-              href: docs/project_files/media/yeast-peptone-carbon-medium.html
+              href: https://animalcule-millican.github.io/docs/project_files/media/yeast-peptone-carbon-medium.html
             - text: "Nutrient Agar"
-              href: docs/project_files/under-construction.html
+              href: https://animalcule-millican.github.io/docs/project_files/under-construction.html
             - text: "Yeast Peptone Mannitol Medium"
-              href: docs/project_files/media/yeast-peptone-mannitol-medium.html
+              href: https://animalcule-millican.github.io/docs/project_files/media/yeast-peptone-mannitol-medium.html
             - text: "Standard Medium plus Starch"
-              href: docs/project_files/media/standard-medium-plus-starch.html
+              href: https://animalcule-millican.github.io/docs/project_files/media/standard-medium-plus-starch.html
             - text: "Honey Peptone Medium"
-              href: docs/project_files/media/honey-peptone-medium.html
+              href: https://animalcule-millican.github.io/docs/project_files/media/honey-peptone-medium.html
             - text: "Vitamin Yeast Medium"
               href: https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium9.pdf
         - text: "Taxa Specific Media"
@@ -130,55 +130,55 @@ navbar:
             - text: "Cyanobacteria"
               menu:
                 - text: "BG-11 Medium"
-                  href: docs/project_files/media/cyanobacteria-bg11-medium-recipe.html
+                  href: https://animalcule-millican.github.io/docs/project_files/media/cyanobacteria-bg11-medium-recipe.html
                 - text: "BG-11 Soil Extract Medium"
-                  href: docs/project_files/media/cyano-bg11-soil-extract-medium-recipe.html
+                  href: https://animalcule-millican.github.io/docs/project_files/media/cyano-bg11-soil-extract-medium-recipe.html
                 - text: "BG-11 Nitrogen Free Medium"
-                  href: docs/project_files/media/cyano-bg11nf-medium-recipe.html
+                  href: https://animalcule-millican.github.io/docs/project_files/media/cyano-bg11nf-medium-recipe.html
                 - text: "BG-11 Nitrogen Free Soil Extract Medium"
-                  href: docs/project_files/media/cyano-bg11nf-soil-extract-medium.html
+                  href: https://animalcule-millican.github.io/docs/project_files/media/cyano-bg11nf-soil-extract-medium.html
                 - text: "Cyano ES Medium"
-                  href: docs/project_files/media/cyanobacteria-es-medium-recipe.html
+                  href: https://animalcule-millican.github.io/docs/project_files/media/cyanobacteria-es-medium-recipe.html
             - text: "Actinomycota"
               menu:
                 - text: "Starch Casein Medium"
-                  href: docs/project_files/media/starch-casein-agar-recipe.html
+                  href: https://animalcule-millican.github.io/docs/project_files/media/starch-casein-agar-recipe.html
                 - text: "Glycerol Asparagine Medium"
-                  href: docs/project-files/under-construction.html
+                  href: https://animalcule-millican.github.io/docs/project-files/under-construction.html
                 - text: "ISP 2 Medium"
-                  href: docs/project-files/under-construction.html
+                  href: https://animalcule-millican.github.io/docs/project-files/under-construction.html
                 - text: "ISP 3 Medium"
-                  href: docs/project-files/under-construction.html
+                  href: https://animalcule-millican.github.io/docs/project-files/under-construction.html
                 - text: "ISP 4 Medium"
-                  href: docs/project-files/under-construction.html
+                  href: https://animalcule-millican.github.io/docs/project-files/under-construction.html
                 - text: "ISP 5 Medium"
-                  href: docs/project-files/under-construction.html
+                  href: https://animalcule-millican.github.io/docs/project-files/under-construction.html
                 - text: "ISP 6 Medium"
-                  href: docs/project-files/under-construction.html
+                  href: https://animalcule-millican.github.io/docs/project-files/under-construction.html
                 - text: "ISP 7 Medium"
-                  href: docs/project-files/under-construction.html
+                  href: https://animalcule-millican.github.io/docs/project-files/under-construction.html
                 - text: "Actinomycete Isolation Medium"
-                  href: docs/project-files/under-construction.html
+                  href: https://animalcule-millican.github.io/docs/project-files/under-construction.html
                 - text: "Humic Acid medium"
-                  href: docs/project_files/media/humic-acid-agar-recipe.html
+                  href: https://animalcule-millican.github.io/docs/project_files/media/humic-acid-agar-recipe.html
                 - text: "Humic Acid Vitamin medium"
-                  href: docs/project_files/media/humic-acid-vitamin-agar-recipe.html
+                  href: https://animalcule-millican.github.io/docs/project_files/media/humic-acid-vitamin-agar-recipe.html
                 - text: "Humic Acid Yeast Extract medium"
-                  href: docs/project_files/media/humic-acid-yeast-extract-agar-recipe.html
+                  href: https://animalcule-millican.github.io/docs/project_files/media/humic-acid-yeast-extract-agar-recipe.html
                 - text: "Humic Acid Soil Extract medium"
-                  href: docs/project_files/media/humic-acid-soil-extract-agar-recipe.html
+                  href: https://animalcule-millican.github.io/docs/project_files/media/humic-acid-soil-extract-agar-recipe.html
                 - text: "Humic Acid Soil Extract Vitamin medium"
-                  href: docs/project-files/under-construction.html
+                  href: https://animalcule-millican.github.io/docs/project-files/under-construction.html
                 - text: "Oligotrophic medium"
-                  href: docs/project-files/under-construction.html
+                  href: https://animalcule-millican.github.io/docs/project-files/under-construction.html
                 - text: "Emerson medium"
-                  href: docs/project-files/under-construction.html
+                  href: https://animalcule-millican.github.io/docs/project-files/under-construction.html
                 - text: "Gause's No. 1 medium"
-                  href: docs/project-files/under-construction.html
+                  href: https://animalcule-millican.github.io/docs/project-files/under-construction.html
                 - text: "Hickey-Tresner Medium"
-                  href: docs/project-files/under-construction.html
+                  href: https://animalcule-millican.github.io/docs/project-files/under-construction.html
                 - text: "Bennett's Medium"
-                  href: docs/project-files/under-construction.html
+                  href: https://animalcule-millican.github.io/docs/project-files/under-construction.html
                 - text: "GYM Streptomyces Medium"
                   href: https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium65.pdf
             - text: "Ancylobacter"
@@ -194,44 +194,44 @@ navbar:
             - text: "Diazotrophs"
               menu:
                 - text: "Burk's N-Free Medium"
-                  href: docs/project-files/under-construction.html
+                  href: https://animalcule-millican.github.io/docs/project-files/under-construction.html
                 - text: "Jensen's Medium"
-                  href: docs/project-files/under-construction.html
+                  href: https://animalcule-millican.github.io/docs/project-files/under-construction.html
                 - text: "Azobacter Medium"
-                  href: docs/project_files/media/azobacter-medium-recipe.html
+                  href: https://animalcule-millican.github.io/docs/project_files/media/azobacter-medium-recipe.html
         - text: "Assay Specific Media"
           menu:
             - text: "Siderophore Medium"
-              href: docs/project_files/media/siderophore-blue-dye-preparation.html
+              href: https://animalcule-millican.github.io/docs/project_files/media/siderophore-blue-dye-preparation.html
             - text: "Phosphate Solubilization Medium"
-              href: docs/project_files/media/pikovskaya-agar.html
+              href: https://animalcule-millican.github.io/docs/project_files/media/pikovskaya-agar.html
             - text: "Potassium Solubilization Medium"
-              href: docs/project-files/under-construction.html
+              href: https://animalcule-millican.github.io/docs/project-files/under-construction.html
             - text: "Lipase Medium"
-              href: docs/project_files/media/lipase-agar.html
+              href: https://animalcule-millican.github.io/docs/project_files/media/lipase-agar.html
             - text: "Cellulase Medium"
               href:  project-files/under-construction.html
             - text: "Protease Medium"
               href:  project-files/under-construction.html
             - text: "Chitin Agar"
-              href: docs/project_files/media/chitin-agar.html
+              href: https://animalcule-millican.github.io/docs/project_files/media/chitin-agar.html
             - text: "Amylase Medium"
               href:  project-files/under-construction.html
         - text: "Enrichment Media"
           menu:
           - text: "Hypersaline Medium"
-            href: docs/project_files/media/hypersaline-medium.html
+            href: https://animalcule-millican.github.io/docs/project_files/media/hypersaline-medium.html
           - text: "Hypersaline Soil Extract Medium"
-            href: docs/project_files/media/hypersalline-soil-extract-medium.html
+            href: https://animalcule-millican.github.io/docs/project_files/media/hypersalline-soil-extract-medium.html
           - text: "Nitrate Mineral Salt Medium"
-            href: docs/project_files/media/nitrate-mineral-salt-medium.html
+            href: https://animalcule-millican.github.io/docs/project_files/media/nitrate-mineral-salt-medium.html
           - text: "Soil Extract Medium"
-            href: docs/project_files/media/Soil extract agar.html
+            href: https://animalcule-millican.github.io/docs/project_files/media/Soil extract agar.html
         - text: "Misc Media"
           menu:
           - text: "Tomato Yeast Milk Medium"
-            href: docs/project_files/media/tomato-juice-yeast-milk-medium.html
+            href: https://animalcule-millican.github.io/docs/project_files/media/tomato-juice-yeast-milk-medium.html
           - text: "Honey Peptone Medium"
-            href: docs/project_files/media/honey-peptone-medium.html
+            href: https://animalcule-millican.github.io/docs/project_files/media/honey-peptone-medium.html
           - text: "Bread Crumb Medium"
-            href: docs/project_files/media/bread-crumb-medium.html
+            href: https://animalcule-millican.github.io/docs/project_files/media/bread-crumb-medium.html
