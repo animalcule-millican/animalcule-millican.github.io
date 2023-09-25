@@ -1,11 +1,11 @@
 name: "Investigations of Interanimalcular Interactions in Agroecosystems"
-output_dir: 'docs'
+output_dir: '.'
 favicon:
 base_url: https://animalcule-millican.github.io/
 repository_url: https://github.com/animalcule-millican/animalcule-millican.github.io
 output:
   html_document:
-    theme: cosmo
+    theme: bootstrap
     highlight: textmate
     toc: true
     toc_float: 
@@ -17,7 +17,7 @@ navbar:
   title: "Functional Animalcule Characterization in Agroecosystems"
   logo:
     image: Animalcule
-    href: ./media/Image_0949.png
+    href: media/Image_0949.png
   left:
     - text: "Home"
       href: index.html
@@ -26,71 +26,71 @@ navbar:
     - text: "Project Directory"
       menu:
         - text: "Functional characterization and interspecific interactions in agroecosystems"
-          href: ./docs/project-files/under_construction.html 
+          href: project-files/under_construction.html 
         - text: "The influence of nitrogen on fungal communities in perennial and annual agroecosystsm"
-          href: ./docs/project-files/under_construction.html 
+          href: project-files/under_construction.html 
         - text: "Genotypic selection of microbial functional assemblage in the phytobiome"
-          href: ./docs/project-files/under_construction.html 
+          href: project-files/under_construction.html 
         - text: "Plant benefical traits and nutrient cycling of microbial communities in bioenergy ecosystems"
-          href: ./docs/project-files/under_construction.html 
+          href: project-files/under_construction.html 
         - text: "Automated pipeline for processing amplicon sequence data"
-          href: ./docs/project-files/under_construction.html 
+          href: project-files/under_construction.html 
     - text: "Functional Assay Protocols"
       menu:
         - text: "ACC deaminase assay"
-          href: ./docs/project-files/protocols/acc-deaminase-assay.html
+          href: project-files/protocols/acc-deaminase-assay.html
         - text: "Ammonia production assay"
-          href: ./docs/project-files/protocols/ammonia-production-assay.html
+          href: project-files/protocols/ammonia-production-assay.html
         - text: "Amylase assay"
-          href: ./docs/project-files/protocols/amylase-assay.html
+          href: project-files/protocols/amylase-assay.html
         - text: "Cellulase assay"
-          href: ./docs/project-files/protocols/cellulase-activity-assay.html
+          href: project-files/protocols/cellulase-activity-assay.html
         - text: "Chitinase assay"
-          href: ./docs/project-files/protocols/chitinase-activity.html
+          href: project-files/protocols/chitinase-activity.html
         - text: "Cyanide production assay"
-          href: ./docs/project-files/protocols/cyanide-production-assay.html
+          href: project-files/protocols/cyanide-production-assay.html
         - text: "Cyanobacteria Isolation from soil environments"
-          href: ./docs/project-files/protocols/cyanobacteria-isolation.html
+          href: project-files/protocols/cyanobacteria-isolation.html
         - text: "IAA production assay"
-          href: ./docs/project-files/protocols/iaa-production-assay.html
+          href: project-files/protocols/iaa-production-assay.html
         - text: "Lipase assay"
-          href: ./docs/project-files/protocols/lipase-assay.html
+          href: project-files/protocols/lipase-assay.html
         - text: "Phosphate solubilization assay"
-          href: ./docs/project-files/protocols/phosphate-solubilization-assay.html
+          href: project-files/protocols/phosphate-solubilization-assay.html
         - text: "Potassium solubilization assay"
-          href: ./docs/project-files/protocols/potassium-solubilization-assay.html
+          href: project-files/protocols/potassium-solubilization-assay.html
         - text: "Protease assay"
-          href: ./docs/project-files/protocols/protease-assay.html
+          href: project-files/protocols/protease-assay.html
         - text: "Siderophore production assay"
-          href: ./docs/project-files/protocols/sideropohre-production-assay.html
+          href: project-files/protocols/sideropohre-production-assay.html
         - text: "Direct Inhibition Assay"
-          href: ./docs/project-files/under-construction.html
+          href: project-files/under-construction.html
         - text: "Co-culture Inhibition Assay"
-          href: ./docs/project-files/under-construction.html
+          href: project-files/under-construction.html
         - text: "Volatile Inhibition Assay"
-          href: ./docs/project-files/under-construction.html
+          href: project-files/under-construction.html
         - text: "Actinomycota Isolation Protocols"
-          href: ./docs/project-files/under-construction.html
+          href: project-files/under-construction.html
         - text: "Community Inhibition Assay"
-          href: ./docs/project-files/under-construction.html
+          href: project-files/under-construction.html
         - text: "Diazotroph Isolation Protocols"
-          href: ./docs/project-files/under-construction.html
+          href: project-files/under-construction.html
         - text: "Carbon Source Utilization Assay"
-          href: ./docs/project-files/under-construction.html
+          href: project-files/under-construction.html
         - text: "Nitrogen Source Utilization Assay"
-          href: ./docs/project-files/under-construction.html
+          href: project-files/under-construction.html
         - text: "Zinc Solubilization Assay"
-          href: ./docs/project-files/under-construction.html
+          href: project-files/under-construction.html
         - text: "Interspecific Interactions Assays"
-          href: ./docs/project-files/under-construction.html
+          href: project-files/under-construction.html
     - text: "Multitudes of Media"
       menu:
         - text: "Fungal Specific Media"
           menu:
             - text: "Potato Dextrose Medium"
-              href: ./docs/project-files/media/potato-dextrose-recipe.html
+              href: project-files/media/potato-dextrose-recipe.html
             - text: "Dichloran Rose Bengal Medium"
-              href: ./docs/project_files/media/dichloran-rose-bengal-chloramphenicol-dextrose-agar.html
+              href: project_files/media/dichloran-rose-bengal-chloramphenicol-dextrose-agar.html
             - text: "Malt Extract Medium"
               href: docs/project_files/media/malt-extract-medium.html
             - text: "Cornmeal Medium"
@@ -144,21 +144,21 @@ navbar:
                 - text: "Starch Casein Medium"
                   href: docs/project_files/media/starch-casein-agar-recipe.html
                 - text: "Glycerol Asparagine Medium"
-                  href: ./docs/project-files/under-construction.html
+                  href: project-files/under-construction.html
                 - text: "ISP 2 Medium"
-                  href: ./docs/project-files/under-construction.html
+                  href: project-files/under-construction.html
                 - text: "ISP 3 Medium"
-                  href: ./docs/project-files/under-construction.html
+                  href: project-files/under-construction.html
                 - text: "ISP 4 Medium"
-                  href: ./docs/project-files/under-construction.html
+                  href: project-files/under-construction.html
                 - text: "ISP 5 Medium"
-                  href: ./docs/project-files/under-construction.html
+                  href: project-files/under-construction.html
                 - text: "ISP 6 Medium"
-                  href: ./docs/project-files/under-construction.html
+                  href: project-files/under-construction.html
                 - text: "ISP 7 Medium"
-                  href: ./docs/project-files/under-construction.html
+                  href: project-files/under-construction.html
                 - text: "Actinomycete Isolation Medium"
-                  href: ./docs/project-files/under-construction.html
+                  href: project-files/under-construction.html
                 - text: "Humic Acid medium"
                   href: docs/project_files/media/humic-acid-agar-recipe.html
                 - text: "Humic Acid Vitamin medium"
@@ -168,17 +168,17 @@ navbar:
                 - text: "Humic Acid Soil Extract medium"
                   href: docs/project_files/media/humic-acid-soil-extract-agar-recipe.html
                 - text: "Humic Acid Soil Extract Vitamin medium"
-                  href: ./docs/project-files/under-construction.html
+                  href: project-files/under-construction.html
                 - text: "Oligotrophic medium"
-                  href: ./docs/project-files/under-construction.html
+                  href: project-files/under-construction.html
                 - text: "Emerson medium"
-                  href: ./docs/project-files/under-construction.html
+                  href: project-files/under-construction.html
                 - text: "Gause's No. 1 medium"
-                  href: ./docs/project-files/under-construction.html
+                  href: project-files/under-construction.html
                 - text: "Hickey-Tresner Medium"
-                  href: ./docs/project-files/under-construction.html
+                  href: project-files/under-construction.html
                 - text: "Bennett's Medium"
-                  href: ./docs/project-files/under-construction.html
+                  href: project-files/under-construction.html
                 - text: "GYM Streptomyces Medium"
                   href: https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium65.pdf
             - text: "Ancylobacter"
@@ -194,9 +194,9 @@ navbar:
             - text: "Diazotrophs"
               menu:
                 - text: "Burk's N-Free Medium"
-                  href: ./docs/project-files/under-construction.html
+                  href: project-files/under-construction.html
                 - text: "Jensen's Medium"
-                  href: ./docs/project-files/under-construction.html
+                  href: project-files/under-construction.html
                 - text: "Azobacter Medium"
                   href: docs/project_files/media/azobacter-medium-recipe.html
         - text: "Assay Specific Media"
@@ -206,17 +206,17 @@ navbar:
             - text: "Phosphate Solubilization Medium"
               href: docs/project_files/media/pikovskaya-agar.html
             - text: "Potassium Solubilization Medium"
-              href: ./docs/project-files/under-construction.html
+              href: project-files/under-construction.html
             - text: "Lipase Medium"
               href: docs/project_files/media/lipase-agar.html
             - text: "Cellulase Medium"
-              href:  ./docs/project-files/under-construction.html
+              href:  project-files/under-construction.html
             - text: "Protease Medium"
-              href:  ./docs/project-files/under-construction.html
+              href:  project-files/under-construction.html
             - text: "Chitin Agar"
               href: docs/project_files/media/chitin-agar.html
             - text: "Amylase Medium"
-              href:  ./docs/project-files/under-construction.html
+              href:  project-files/under-construction.html
         - text: "Enrichment Media"
           menu:
           - text: "Hypersaline Medium"
