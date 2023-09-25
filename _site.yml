@@ -16,7 +16,7 @@ output:
 navbar:
   title: "Functional Animalcule Characterization in Agroecosystems"
   logo:
-    image: Animalcule
+    image: media/Image_0949.png
     href: media/Image_0949.png
   left:
     - text: "Home"
@@ -236,6 +236,6 @@ navbar:
           - text: "Bread Crumb Medium"
             href: project_files/media/bread-crumb-medium.html
   right:
-      - icon: fab fa-github 
-        image: Animalcule
+      - icon: media/Image_0959.png
+        image: media/Image_0959.png
         href: media/Image_0959.png
