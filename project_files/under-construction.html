@@ -4,9 +4,8 @@
 		<meta charset="UTF-8">
 		<title>under-construction</title>
         <link rel="preconnect" href="https://fonts.googleapis.com"> 
-        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin> 
-        <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
-        <link href="https://fonts.googleapis.com/css2?family=Assistant&display=swap" rel="stylesheet">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Assistant&family=Roboto&family=Sedgwick+Ave+Display&family=Shadows+Into+Light&display=swap" rel="stylesheet">
 		<style>
             h1 {
                 font-weight: bold;
@@ -20,9 +19,14 @@
                 font-family: 'Assistant', sans-serif;
             }
             img {
-                display: block;
+                max-width: 100%;
                 border-radius: 8px;
-                margin: 0 auto;
+                height: auto;
+            }
+            .image {
+                max-width: 100%;
+                border-radius: 8px;
+                height: auto;
             }
             h2 {
                 text-align: center;
@@ -34,8 +38,8 @@
 	<body>
 		<h1>Under Construction</h1>
 		<p>As of <span id="spanDate"></span> this page is still under construction.</p>
-		<img src="/Users/millican/Documents/Research/Millican/Hopefully-useful-microbiology/media/under-construction.jpg" 
-                alt="Under Construction" style="width: 60%; height: 60%;">
+		<img src="media/under-construction.jpg" 
+                alt="Under Construction" style="width: 60%; height: 60%;" class="image">
 		<h2>Please check back soon</h2>
 		<script>
             var timestamp = new Date();
