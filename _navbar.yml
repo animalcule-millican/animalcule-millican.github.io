@@ -5,13 +5,13 @@ left:
   - text: "About me"
     menu:
       - text: "Learn more about me"
-        href: ./projec_files/under-construction.html
+        href: https://github.com/animalcule-millican/animalcule-millican.github.io/blob/11233354187f1a6481cd97566a4cbb44be36bf1e/project_files/under-construction.html
   - text: "Project"
     menu:
        - text: "Project part 1"
-         href: ./project_files/under-construction.html
+         href: https://github.com/animalcule-millican/animalcule-millican.github.io/blob/11233354187f1a6481cd97566a4cbb44be36bf1e/project_files/under-construction.html
        - text: "Project part 2"
-         href: ./project_files/alt-construction.html
+         href: https://github.com/animalcule-millican/animalcule-millican.github.io/blob/11233354187f1a6481cd97566a4cbb44be36bf1e/project_files/alt-construction.html
   - text: "Contact"
     href: ./contact.html
 right:
